@@ -1,4 +1,17 @@
-### Hi there 👋
+Hi ! 👋 I'am a french [IMAC](https://www.ingenieur-imac.fr/) student passionate about computer graphics software.
+
+🌱 Learning :
+  - OpenGL and shaders langages 💡
+  - 3D modeling and texturing 🍩
+  - Generative art 🎨
+  
+
+🚀 Interested in :
+  - Computer graphics 🖼️ 
+  - Software development 🖥️
+  
+ 
+
 
 <!--
 **badbois/badbois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
